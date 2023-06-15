@@ -1,0 +1,5 @@
+n1 = int(input('Digite um numero :'))
+n2 = int(input('Digite o segundo número'))
+r = (n1 + n2)
+print (type(r))
+print (f'O resultado da soma entre {n1} e {n2} vale {r}! ') # f significa format f{x} é a mesma coisa do -- print('abc'{x}.format(n1,n2,s))

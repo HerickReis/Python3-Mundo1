@@ -1,0 +1,5 @@
+x =int(input('digite um valor: '))
+y = int(input('Digite outro valor: '))
+s = (x + y)
+print(type(s))
+print(f'A soma de {x} e {y} é: {s}')
